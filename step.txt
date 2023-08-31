@@ -6,3 +6,11 @@ git add -A
 git commit -m "tao trang home.html"
 git push -u origin master 
 git push 
+
+
+tạo nhánh 
+git checkout -b login 
+
+
+xem đang đứng ở đâu
+git branch 
